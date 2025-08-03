@@ -1,0 +1,10 @@
+# Unity
+Library/
+Temp/
+obj/
+Build/
+UserSettings/
+
+# 秘密鍵は無視
+id_ed25519
+id_ed25519.pub
